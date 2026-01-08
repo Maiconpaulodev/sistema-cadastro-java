@@ -66,7 +66,6 @@
 
         }
 
-scanner.close();
 
 
 
@@ -74,7 +73,7 @@ scanner.close();
 
 
 
-
+                     scanner.close();
 
                 }
 
